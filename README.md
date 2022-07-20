@@ -1,1 +1,1 @@
-# awesome
+# My Configuration AwesomeWM.
