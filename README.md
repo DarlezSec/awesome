@@ -1,4 +1,4 @@
-<h1 align='center'>My Configuration rice AwesomeWM</h1>
+<h1 align='center'>My Setup rice AwesomeWM with Metal Style</h1>
 
 **ⵃ Thanks for visiting!**
 
