@@ -14,3 +14,7 @@
 - [x] Wallpaper: [Alphacoders](https://images.alphacoders.com/233/233713.jpg)
 - [x] Shell: [OhMyZsh](https://ohmyz.sh/)
 - [x] GTK Theme: 
+- [x] Music Visualizer: [Cava](https://github.com/karlstav/cava) 
+- [x] Application Launcher: [Rofi](https://github.com/davatorium/rofi)
+- [x] Notifications: [Dunst](https://dunst-project.org/)
+- [x] Calendary: [Calcurse](https://calcurse.org/)
