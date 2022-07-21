@@ -2,7 +2,7 @@
 
 **ⵃ Thanks for visiting!**
 
-<img src='awesome0.png' alt='AwesomeWM' align='right' width='680px'/>
+<img src='awesome0.png' alt='AwesomeWM' align='right' width='620px'/>
 
 ### Details:
 
