@@ -3,6 +3,7 @@
 **ⵃ Thanks for visiting!**
 
 <img src='awesome0.png' alt='AwesomeWM' align='right' width='550px'/>
+<img src='setup.png' alt='AwesomeWM' align='right' width='550px'/>
 
 ### Details:
 
@@ -13,8 +14,8 @@
 - [x] Terminal: [Tilix](https://gnunn1.github.io/tilix-web/)
 - [x] Wallpaper: [Alphacoders](https://images.alphacoders.com/233/233713.jpg)
 - [x] Shell: [OhMyZsh](https://ohmyz.sh/)
-- [x] GTK Theme: 
 - [x] Music Visualizer: [Cava](https://github.com/karlstav/cava) 
 - [x] Application Launcher: [Rofi](https://github.com/davatorium/rofi)
 - [x] Notifications: [Dunst](https://dunst-project.org/)
 - [x] Calendary: [Calcurse](https://calcurse.org/)
+- [x] Music Player: [Cmus](https://github.com/cmus/cmus)
